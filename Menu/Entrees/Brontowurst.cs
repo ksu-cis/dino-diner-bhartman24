@@ -36,7 +36,7 @@ namespace DinoDiner.Menu.Entrees
                 this.bun = false;
             }
 
-            public void HoldOnions()
+            public void HoldOnion()
             {
                 this.onions = false;
             }
